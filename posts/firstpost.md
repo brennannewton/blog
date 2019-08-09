@@ -1,26 +1,19 @@
 ---
 title: Sprint 1 Reflection
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+description: Reflection of this week's progress on ELECTRA.
+date: 2019-08-09
 tags:
-  - another-tag
+  - electra
+  - project-management
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Get Your Sh*t Together
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+This week we worked on organizing our project. At the beginning of the week, we were scattered and lacked a clear direction. One thing we learned is that it's important to take the time to plan. While it might seem slow at first, planning can actually save you time in the future. It was difficult to get everyone on the same page, but it was worth it when everything came together.
 
-## Section Header
+Our group is good at generating ideas, so we have an effective brainstorming workflow. However, when it comes to being decisive, our workflow is not as effective. I'm good at being decisive when the time comes, but I need to work on listening to my teammates. I don't want to stifle their voices for the sake of meeting deadlines.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+## Logo Design
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+When the logo came together, it was the most satisfying moment of the week. Check it out:
+![](../img/electraLogoFinal.png)
