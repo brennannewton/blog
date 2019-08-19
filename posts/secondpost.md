@@ -13,4 +13,4 @@ My major focus this week was working on the main feature of our website, critiqu
 
 ## Project Management
 
-One thing I learned from stumbling through this week was the importance of scope. While it's important to have goals for your project, it's more important to actually be able to implement the project. At the end of the week, we sat down as a team and decided to scale back our expectations. This alleviated some of the stress we were all expereiencing, and we now have clarity moving forward.
+One thing I learned from stumbling through this week was the importance of scope. While it's important to have goals for your project, it's more important to actually be able to implement the project. At the end of the week, we sat down as a team and decided to scale back our expectations. This alleviated some of the stress we were all experiencing, and we now have clarity moving forward.
