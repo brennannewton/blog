@@ -1,18 +1,16 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: Sprint 2 Reflection
+description: Reflecting on ELECTRA's progress this week.
+date: 2019-08-15
 tags:
-  - number-2
+  - electra
+  - project-management
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Backend: Critiques Feature
 
-## Section Header
+My major focus this week was working on the main feature of our website, critiques. Specifically, CJ & I worked on designing and implementing the backend architecture for the critiques feature. We started by designing the MVC pattern. First, we created new routes for the critiques feature. Because we already had a router for user registration, we had to implement a meta router to organize all the routes. This ended up being a more difficult task than we expected, so we had to ask Scott & other teams for help. Once the meta router was working, we moved on to writing the controller functions. We encountered a roadblock when we tried to implement uploading, so we did some reasearch to see if we could figure it out. This turned out to only highlight more problems.
 
-<a href="{{ '/posts/firstpost/' | url }}">First post</a>
-<a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
+## Project Management
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+One thing I learned from stumbling through this week was the importance of scope. While it's important to have goals for your project, it's more important to actually be able to implement the project. At the end of the week, we sat down as a team and decided to scale back our expectations. This alleviated some of the stress we were all expereiencing, and we now have clarity moving forward.
