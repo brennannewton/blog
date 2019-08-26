@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 ## Backend Cleanup
-This week Dandy & I worked to cleanup the backend code. Specifically, we documented the controller and model functions, standardized naming conventions, and organized our backend architecture. While this may not seem productive, clean code helps future project work run smoothly. It makes the code readable and accessible, which helps developers, team members, and users.
+This week Dandy & I worked to cleanup the backend code. Specifically, we documented the controller and model functions, standardized naming conventions, and organized our backend architecture. While this may not seem productive, clean code helps future project work run smoothly. It makes the code readable and accessible, which helps developers, team members, and users alike.
 
 Here's an example of function documentation:
 
@@ -31,3 +31,4 @@ exports.getUsers = async (request, response, next) => {
   }
 };
 ```
+!()[../img/electraLogoFinal.png]
