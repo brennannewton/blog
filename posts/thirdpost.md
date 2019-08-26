@@ -31,4 +31,4 @@ exports.getUsers = async (request, response, next) => {
   }
 };
 ```
-![](../img/electraLogoFinal.png)
+![](https://github.com/brennannewton/blog/blob/master/img/electraLogoFinal.png)
