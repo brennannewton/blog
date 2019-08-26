@@ -31,4 +31,4 @@ exports.getUsers = async (request, response, next) => {
   }
 };
 ```
-!()[../img/electraLogoFinal.png]
+![](../img/electraLogoFinal.png)
