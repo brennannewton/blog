@@ -1,28 +1,33 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
+title: Sprint 3 Reflection
+description: Reflecting on ELECTRA's progress this week.
+date: 2019-08-23
 tags:
-  - second-tag
+  - electra
+  - project-management
+  - backend
+  - cleanup
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Backend Cleanup
+This week Dandy & I worked to cleanup the backend code. Specifically, we documented the controller and model functions, standardized naming conventions, and organized our backend architecture. While this may not seem productive, clean code helps future project work run smoothly. It makes the code readable and accessible, which helps developers, team members, and users.
+
+Here's an example of function documentation:
 
 ``` js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
-
-	counter++;
-
-}
-
-// Test with a line break above this line.
-console.log('Test');
+/**
+ * Gets all the users in the database
+ * @param {object} response
+ * @param {object} request
+ * @param {object} next
+ * @returns {object} A JSON object of all users
+ */
+exports.getUsers = async (request, response, next) => {
+  try {
+    const all_users = await Users.select();
+    return response.send(all_users);
+  } catch (err) {
+    next(err);
+  }
+};
 ```
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
